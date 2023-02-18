@@ -9,4 +9,6 @@ Just download and start on your browser.
 
 addEventListener(), Switch Case, DOM Manupilation, Audio(), keyPress() Functions
 
+![](https://i.imgur.com/zI44gBQ.jpeg)
+
 #### Thank you!
